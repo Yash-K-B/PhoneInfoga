@@ -5,5 +5,5 @@
 # @url    : https://github.com/sundowndev
 # @author : Raphael Cerveaux (sundowndev)
 
-google_api_key=''
-google_cx_id=''
+google_api_key='AIzaSyAStg0vBB521yvHv8wh07v0NKnzhF_0o9w'
+google_cx_id='7df5f6f1c1a450016'
